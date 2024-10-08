@@ -27,6 +27,8 @@ body::before {
   display: none;
   background-color: green;
   max-width: 340px;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .cartao-pokedev.aberto {
