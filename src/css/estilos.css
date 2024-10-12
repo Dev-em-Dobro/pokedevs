@@ -1,6 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   background-image: url("../imagens/background.png");
+  background-position: center;
   background-size: cover;
 }
 
